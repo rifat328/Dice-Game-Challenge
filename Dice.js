@@ -21,20 +21,20 @@ const rollDice1 = (dice1, random) => {
       case 1:
         dice1.style.transform = "rotateX(0deg) rotateY(0deg)";
         break;
-      case 6:
-        dice1.style.transform = "rotateX(180deg) rotateY(0deg)";
-        break;
       case 2:
         dice1.style.transform = "rotateX(-90deg) rotateY(0deg)";
-        break;
-      case 5:
-        dice1.style.transform = "rotateX(90deg) rotateY(0deg)";
         break;
       case 3:
         dice1.style.transform = "rotateX(0deg) rotateY(90deg)";
         break;
       case 4:
         dice1.style.transform = "rotateX(0deg) rotateY(-90deg)";
+        break;
+      case 5:
+        dice1.style.transform = "rotateX(90deg) rotateY(0deg)";
+        break;
+      case 6:
+        dice1.style.transform = "rotateX(180deg) rotateY(0deg)";
         break;
       default:
         break;
@@ -49,20 +49,20 @@ const rollDice2 = (dice2, random) => {
       case 1:
         dice2.style.transform = "rotateX(0deg) rotateY(0deg)";
         break;
-      case 6:
-        dice2.style.transform = "rotateX(180deg) rotateY(0deg)";
-        break;
       case 2:
         dice2.style.transform = "rotateX(-90deg) rotateY(0deg)";
-        break;
-      case 5:
-        dice2.style.transform = "rotateX(90deg) rotateY(0deg)";
         break;
       case 3:
         dice2.style.transform = "rotateX(0deg) rotateY(90deg)";
         break;
       case 4:
         dice2.style.transform = "rotateX(0deg) rotateY(-90deg)";
+        break;
+      case 5:
+        dice2.style.transform = "rotateX(90deg) rotateY(0deg)";
+        break;
+      case 6:
+        dice2.style.transform = "rotateX(180deg) rotateY(0deg)";
         break;
       default:
         break;

@@ -1,6 +1,6 @@
 # Dice-Game-Challenge 🎲
 
-A simple dice game where the player with the higher roll wins! Refresh the browser to play again.
+A simple dice game where the player with the higher roll wins! Just click on the "roll" button to play again.
 
 ## Features
 
@@ -11,7 +11,7 @@ A simple dice game where the player with the higher roll wins! Refresh the brows
 
 ## How to Play
 
-- Refresh the browser window to roll the dice.
+- Click on the button to roll the dice.
 - The player with the higher dice roll wins!
 
 ## Technologies Used
@@ -22,17 +22,9 @@ A simple dice game where the player with the higher roll wins! Refresh the brows
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone <repository>
 
-    ```bash
-    git clone https://github.com/yourusername/Dice-Game-Challenge.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd Dice-Game-Challenge
-    ```
+2. Navigate to the project directory: cd Dice-Game-Challenge
 
 3. Open `index.html` in your browser to start the game.
 
@@ -43,4 +35,3 @@ Feel free to fork the repository and submit pull requests. We welcome contributi
 ## License
 
 This project is licensed under the MIT License.
-

@@ -22,7 +22,13 @@ A simple dice game where the player with the higher roll wins! Just click on the
 
 ## Installation
 
-1. Clone the repository: git clone <repository>
+Visit the live version [here](https://rifat328.github.io/Dice-Game-Challenge/).
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rifat328/Dice-Game-Challenge.git
+   ```
 
 2. Navigate to the project directory: cd Dice-Game-Challenge
 

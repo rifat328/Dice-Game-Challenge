@@ -72,14 +72,12 @@ const rollDice2 = (dice2, random) => {
 };
 
 function checkPoint() {
-  {
-    if (random1 === random2) {
-      result.textContent = "🚩 Draw 🚩";
-    } else if (random1 > random2) {
-      result.textContent = "🚩 Player 1 Wins! ";
-    } else {
-      result.textContent = "Player 2 Wins! 🚩";
-    }
+  if (random1 === random2) {
+    result.textContent = "🚩 Draw 🚩";
+  } else if (random1 > random2) {
+    result.textContent = "🚩 Player 1 Wins! ";
+  } else {
+    result.textContent = "Player 2 Wins! 🚩";
   }
 }
 

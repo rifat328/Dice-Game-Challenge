@@ -72,9 +72,7 @@ const rollDice2 = (dice2, random) => {
 };
 
 function checkPoint() {
-  if (document.cookie.indexOf("mycookie") == -1) {
-    document.cookie = "mycookie=1";
-  } else {
+  {
     if (random1 === random2) {
       result.textContent = "🚩 Draw 🚩";
     } else if (random1 > random2) {

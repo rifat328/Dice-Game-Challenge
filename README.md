@@ -32,7 +32,7 @@ Visit the live version [here](https://rifat328.github.io/Dice-Game-Challenge/).
 
 2. Navigate to the project directory: cd Dice-Game-Challenge
 
-3. Open `index.html` in your browser to start the game.
+3. Open `index.html` in your browser. If it doesn't work use live servers to preview and play. You can use the Vscode live server extension.
 
 ## Contributors
 
